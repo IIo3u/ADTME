@@ -1,0 +1,170 @@
+# DO NOT ADD MORE, USE UNIFORM DYING
+- type: vendingMachineInventory
+  id: ClothesMateInventory
+  startingInventory:
+# Начало одежда на 14 февраля
+    #ADTClothingUniformDarkManSuit: 2
+    #ADTClothingUniformBrightManSuit: 2
+    #ADTClothingUniformCupidonSuit: 1
+    #ADTClothingBeltQuiverCupidon: 1
+    #ADTClothingOuterCupidonWings: 1
+    #ADTClothingUniformRedSweaterHeart: 2
+    #ADTClothingUniformWhiteSweaterHeart: 2 # TODO: Добавить вещи святого валентина
+    #ADTClothingOuterRedCardigan: 2
+    #ADTClothingOuterBlackCardigan: 2
+    #ADTClothingUnderwearSocksHeart: 2
+    #ADTClothingUnderwearStockingsHeart: 2
+# Конец одежда на 14 февраля
+    ClothingBackpack: 5
+    ClothingBackpackDuffel: 5
+    ClothingBackpackSatchel: 3
+# ADT сумки начало
+    ADTClothingBackpackBlackLadySatchel: 2
+    ADTClothingBackpackLeatherLadySatchel: 2
+# ADT сумки конец
+    ADTClothingHeadHatBeretBlackCivilian: 2 # ADT Кастомный чёрный берет
+    ClothingBackpackSatchelLeather: 2
+# ADT бельё/обмотки/плащи начало
+    # ADTClothingUnderwearRedLacePanties: 2
+    # ADTClothingUnderwearTopLaceBraRed: 2
+    # ADTClothingUnderwearBlackLacePanties: 2 # TODO: Убрать комменты после добавления ниженго белья
+    # ADTClothingUnderwearTopLaceBraBlack: 2
+    # ADTClothingUnderwearWhiteComfyPanties: 2
+    # ADTClothingUnderwearTopComfyWhiteBra: 2
+# конец белья
+    ADTClothingNeckDarkGreyCloak: 1
+    ADTClothingNeckGothicCloak: 1
+# ADT бельё/обмотки/плащи конец
+    ADTClothingSandals: 2
+    ClothingRandomSpawner: 8
+    ClothingHeadHatBeret: 4
+    ClothingHeadBandBlack: 2
+    ClothingHeadBandBlue: 2
+    ClothingHeadBandGreen: 2
+    ClothingHeadBandRed: 2
+    ClothingHeadBandSkull: 2
+    ClothingHeadHatGreyFlatcap: 3
+    ClothingHeadHatBrownFlatcap: 3
+    ClothingUniformJumpsuitColorGrey: 8
+    ClothingUniformJumpskirtColorGrey: 8
+    ClothingUniformJumpsuitColorWhite: 3
+    ClothingUniformJumpskirtColorWhite: 3
+    ClothingUniformJumpsuitColorBlack: 3
+    ClothingUniformJumpskirtColorBlack: 3
+    ClothingUniformJumpsuitColorBlue: 2
+    ClothingUniformJumpskirtColorBlue: 2
+    ClothingUniformJumpsuitColorYellow: 2
+    ClothingUniformJumpskirtColorYellow: 2
+    ClothingUniformJumpsuitColorGreen: 2
+    # DO NOT ADD MORE, USE UNIFORM DYING
+    ClothingUniformJumpskirtColorGreen: 2
+    ClothingUniformJumpsuitColorOrange: 2
+    ClothingUniformJumpskirtColorOrange: 2
+    ClothingUniformJumpsuitColorRed: 2
+    ClothingUniformJumpskirtColorRed: 2
+    ClothingUniformJumpsuitColorPurple: 2
+    ClothingUniformJumpskirtColorPurple: 2
+    ClothingUniformJumpsuitColorPink: 2
+    ClothingUniformJumpskirtColorPink: 2
+    ClothingUniformJumpsuitColorDarkBlue: 2
+    ClothingUniformJumpskirtColorDarkBlue: 2
+    ClothingUniformJumpsuitColorDarkGreen:  2
+    ClothingUniformJumpskirtColorDarkGreen: 2
+    ClothingUniformJumpsuitColorTeal: 2
+    ClothingUniformJumpskirtColorTeal: 2
+    ClothingUniformJumpsuitHawaiBlack: 2
+    ClothingUniformJumpsuitHawaiBlue: 2
+    ClothingUniformJumpsuitHawaiRed: 2
+    ClothingUniformJumpsuitHawaiYellow: 2
+    ClothingUniformJumpsuitFlannel: 2
+    ClothingUniformJumpsuitCasualBlue: 2
+    ClothingUniformJumpskirtCasualBlue: 2
+    ClothingUniformJumpsuitCasualPurple: 2
+    ClothingUniformJumpskirtCasualPurple: 2
+    ClothingUniformJumpsuitCasualRed: 2
+    ClothingUniformJumpskirtCasualRed: 2
+    # DO NOT ADD MORE, USE UNIFORM DYING
+    # ADT бельё/обмотки/плащи начало
+    ADTClothingFootWrapsWhite: 2
+    ADTClothingFootWrapsHighWhite: 2
+    ADTClothingFootWrapsBlack: 2
+    ADTClothingFootWrapsHighBlack: 2
+    ADTClothingFootWrapsBrown: 2
+    ADTClothingFootWrapsHighBrown: 2
+    # ADT бельё/обмотки/плащи конец
+    ClothingShoesColorBlack: 8
+    ClothingShoesColorBrown: 4
+    ClothingShoesColorWhite: 3
+    ClothingShoesColorBlue: 2
+    ClothingShoesColorYellow: 2
+    ClothingShoesColorGreen: 2
+    ClothingShoesColorOrange: 2
+    ClothingShoesColorRed: 2
+    ClothingShoesColorPurple: 2
+    ClothingHeadHatGreysoft: 8
+    ClothingHeadHatMimesoft: 3
+    ClothingHeadHatBluesoft: 2
+    ClothingHeadHatYellowsoft: 2
+    ClothingHeadHatGreensoft: 2
+    ClothingHeadHatOrangesoft: 2
+    ClothingHeadHatRedsoft: 2
+    # DO NOT ADD MORE, USE UNIFORM DYING
+    ClothingHeadHatBlacksoft: 2
+    ClothingHeadHatPurplesoft: 2
+    ClothingHeadHatCorpsoft: 2
+    ClothingHeadFishCap: 2
+    ClothingHeadRastaHat: 2
+    ClothingBeltStorageWaistbag: 3
+    ClothingEyesGlasses: 6
+    ClothingHandsGlovesColorBlack: 4
+    ClothingHandsGlovesColorGray: 4
+    ClothingHandsGlovesColorBrown: 2
+    ClothingHandsGlovesColorWhite: 2
+    ClothingHandsGlovesColorRed: 2
+    ClothingHandsGlovesColorBlue: 2
+    ClothingHandsGlovesColorGreen: 2
+    ClothingHandsGlovesColorOrange: 2
+    ClothingHandsGlovesColorPurple: 2
+    ClothingEyesGlassesCheapSunglasses: 3
+# ADT водолазки начало
+    ADTClothingUniformTurtleneckBlack: 1
+    ADTClothingUniformTurtleneckBlackWomen: 1
+    ADTClothingUniformTurtleneckGrey: 1
+    ADTClothingUniformTurtleneckGreyWomen: 1
+    ADTClothingUniformTurtleneckBrown: 1
+    ADTClothingUniformTurtleneckBrownWomen: 1
+    ADTClothingUniformTurtleneckBlue: 1
+    ADTClothingUniformTurtleneckBlueWomen: 1
+    ADTClothingUniformTurtleneckAzure: 1
+    ADTClothingUniformTurtleneckAzureWomen: 1
+    ADTClothingUniformTurtleneckAquamarine: 1
+    ADTClothingUniformTurtleneckAquamarineWomen: 1
+    ADTClothingUniformTurtleneckGreen: 1
+    ADTClothingUniformTurtleneckGreenWomen: 1
+    ADTClothingUniformTurtleneckOrange: 1
+    ADTClothingUniformTurtleneckOrangeWomen: 1
+    ADTClothingUniformTurtleneckYellow: 1
+    ADTClothingUniformTurtleneckYellowWomen: 1
+    ADTClothingUniformTurtleneckPurple: 1
+    ADTClothingUniformTurtleneckPurpleWomen: 1
+    ADTClothingUniformTurtleneckPink: 1
+    ADTClothingUniformTurtleneckPinkWomen: 1
+    ADTClothingUniformTurtleneckRed: 1
+    ADTClothingUniformTurtleneckRedWomen: 1
+#    ADTClothingUniformTurleneckSalat: 2
+#    ADTClothingUniformTurleneckSalatBlack: 2
+#    ADTClothingUniformTurleneckSalatWomen: 2
+    ADTClothingUniformTurtleneckWhite: 1
+    ADTClothingUniformTurtleneckWhiteWomen: 1
+    ADTClothingUniformTurleneckBlackSleeveless: 1
+    ADTClothingUniformTurleneckBlackWomenSleeveless: 1
+    ADTClothingUniformTurleneckWhiteSleeveless: 1
+    ADTClothingUniformTurleneckWhiteBlackSleeveless: 1
+    ADTClothingUniformTurleneckWhiteWomenSleeveless: 1
+# ADT водолазки конец
+# DO NOT ADD MORE, USE UNIFORM DYING
+  contrabandInventory:
+    ClothingMaskNeckGaiter: 2
+    ClothingUniformJumpsuitTacticool: 1
+    ClothingUniformJumpskirtTacticool: 1
+# DO NOT ADD MORE, USE UNIFORM DYING
